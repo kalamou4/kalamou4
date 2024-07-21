@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalla Moussa Gueye</h1>
+<h1 align="center">Hi 👋, I'm Kala Moussa Gueye</h1>
 <h3 align="center">A passionate developer from Senegal</h3>
 
 - 🔭 I’m currently studying at **zone01dakar**
